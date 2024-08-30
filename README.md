@@ -6,7 +6,7 @@ Welcome to **Adventour**! 🎉 This travel website is designed to help you embar
 
 ## Getting Started 🚀
 
-1. **Unzip and Explore**: Download the provided `.zip` file, extract its contents, and open `index.html` in your preferred web browser to experience Adventour firsthand. 🗂️
+1. **Unzip and Explore**: Download the provided `.zip` file, extract its contents, and open `index1.html` in your preferred web browser to experience Adventour firsthand. 🗂️
 
 2. **Tools Required**: All you need is a text editor of your choice. No complex installations or software configurations required. 🖥️
 
